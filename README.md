@@ -1,4 +1,4 @@
 # miscScripts
 
-## snr | Search 'n replace
-   dep | the_silver_searcher
+#### snr | Search 'n replace
+deps - the_silver_searcher
