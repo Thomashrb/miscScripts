@@ -1,4 +1,9 @@
 # miscScripts
 
-#### snr | Search 'n replace
-deps - the_silver_searcher
+#### snr
+usage | snr.sh [find] [replace]
+dep   | the_silver_searcher
+
+#### cabalclean
+usage | cabalclean.sh
+dep   | none
