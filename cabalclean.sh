@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # remove all installed GHC/cabal packages, leaving ~/.cabal binaries and docs in place.
 # When all else fails, use this to get out of dependency hell and start over.
 # Usage cabalclean.sh | follow instructions

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Search `n Replace
 # uses the_silver_searcher with xargs
 # usage: snr.sh [search] [replace]
